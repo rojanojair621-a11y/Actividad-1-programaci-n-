@@ -1,0 +1,12 @@
+la relacion entre el uso responsable de la informacion en internet, la particoacion ciudadana
+y la organizacion del trabajo tecnico radica en que los 
+tres promueven la responsabilidad,la colaboracion 
+y la trasparencia. el uso responsable de la informacion implica
+verificar las fuentes y compartir contenido confiable
+lo cual es fundamental para que la participacion ciudadana sea informada 
+y no se base en noticias falsas o desinformacion. 
+por otro lado, herramientas como git permiten organizar el trabajo tecnico de forma colaborativa
+manteniendo un registro claro de cambios fomentando la responsabilidad 
+de cada integrante del equipo. en conjunto, estos elementos 
+ayudan a construir entornos digitales mas confiables, participativos y organizados 
+

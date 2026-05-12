@@ -8,4 +8,3 @@ touch reflexion-semana2.txt
 git add .
 git commit -m 'Actividad semana 2'
 git push" > comandos-terminal.txt
-

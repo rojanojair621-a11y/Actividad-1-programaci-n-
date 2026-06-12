@@ -1,0 +1,8 @@
+uta /:
+Muestra el mensaje "Servidor activo" indicando que el servidor está funcionando correctamente.
+
+Ruta /saludo:
+Muestra el mensaje "Hola comunidad".
+
+Ruta /mensaje/juan:
+Muestra el mensaje "Hola juan" utilizando el parámetro enviado en la URL.

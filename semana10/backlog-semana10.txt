@@ -1,0 +1,9 @@
+1. como ciudadano quiero enviar una sugerencia para contribuir con el mejoramiento de mi comunidad.
+
+2. Como líder comunitario quiero recibir una notificación cuando se registre una nueva sugerencia para darle seguimiento.
+
+3. Como integrante del equipo quiero consultar las solicitudes registradas para verificar su estado.
+
+4. Como administrador quiero asignar un responsable a cada solicitud para garantizar su atención.
+
+5. Como ciudadano quiero recibir una notificacion cuando mi solicitud sea atendida para conocer el resultado.

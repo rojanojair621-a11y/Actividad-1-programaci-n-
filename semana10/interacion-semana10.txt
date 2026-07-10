@@ -1,0 +1,9 @@
+las dos tareas que realizaria primero serian registrar una incidencia y recibir una notificación en Telegram cuando se cree un nuevo reporte.
+
+Estas tareas son las mas importantes porque permiten iniciar el proceso y avisar al equipo para dar seguimiento oportuno.
+
+Para mi una tarea esta terminada cuando:
+
+- Funciona correctamente.
+- Fue probada y no presenta errores.
+- Quedó registrada y guardada en Git.
